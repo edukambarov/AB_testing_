@@ -20,7 +20,7 @@
 
 Результаты ниже:
 
-![см.приложеный png-файл](https://github.com/edukambarov/AB_testing_/new/main/screens_hw_sem5/task1_results.jpg)
+![см.приложенный файл "task1_results.jpg"](https://github.com/edukambarov/AB_testing_/new/main/screens_hw_sem5/task1_results.jpg)
 
 Мы получили статистически значимые различия: конверсия во 2й группе выше,
 
